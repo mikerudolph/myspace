@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/img/avatar.png",
+        url: "/img/graph_embed.png",
         width: 1200,
         height: 630,
         alt: "Mike Rudolph",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: "Mike Rudolph",
     description:
       "Mike Rudolph is a software developer from Canada, currently leading Innovation at REDspace.",
-    images: ["/img/avatar.png"],
+    images: ["/img/graph_embed.png"],
   },
 };
 
